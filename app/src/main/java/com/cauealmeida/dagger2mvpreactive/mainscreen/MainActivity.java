@@ -8,6 +8,7 @@ import android.widget.Toast;
 
 import com.cauealmeida.dagger2mvpreactive.App;
 import com.cauealmeida.dagger2mvpreactive.R;
+import com.cauealmeida.dagger2mvpreactive.data.component.DaggerMainScreenComponent;
 import com.cauealmeida.dagger2mvpreactive.data.component.DaggerNetComponent;
 import com.cauealmeida.dagger2mvpreactive.data.model.Post;
 import com.cauealmeida.dagger2mvpreactive.data.module.MainScreenModule;
